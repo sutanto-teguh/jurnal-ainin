@@ -27,4 +27,4 @@ Lnik : https://www.sciencedirect.com/journal/design-studies/about/aims-and-scope
 Indexing: Sciencedirect
 
 Bisa juga cari di sini
-(https://sinta.kemdikbud.go.id/) [Sinta]
+(Sinta)[https://sinta.kemdikbud.go.id/]
