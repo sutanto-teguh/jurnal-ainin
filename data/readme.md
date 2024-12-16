@@ -4,5 +4,5 @@ Berdasarkan berita yang di berbagai media, banyak ditemukan anak-anak sekolah me
 
 Sumber:
 
-1. (https://www.kompas.id/baca/riset/2023/03/01/bersama-sama-menjaga-keamanan-pangan-jajanan-anak)[Kompas]
+1. [Kompas](https://www.kompas.id/baca/riset/2023/03/01/bersama-sama-menjaga-keamanan-pangan-jajanan-anak)
 2. 
