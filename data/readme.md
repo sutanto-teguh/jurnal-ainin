@@ -1,8 +1,8 @@
 # LATAR BELAKANG
 
-Berdasarkan berita yang di berbagai media, banyak ditemukan anak-anak sekolah mengalami kecunan jajanan sekolah seperti yang diberitakan [1][2]
+Berdasarkan berita yang di berbagai media, banyak ditemukan anak-anak sekolah mengalami kecunan jajanan sekolah seperti yang diberitakan [1] menyebutkan bahwa kondisi keracunan siswa sudah menjadi kejadian luar biasa sehingga perlu penanganan yang serius. 
 
 Sumber:
 
-1. [Kompas](https://www.kompas.id/baca/riset/2023/03/01/bersama-sama-menjaga-keamanan-pangan-jajanan-anak)
-2. 
+1. [Kejaian Luar Bisas](https://www.kompas.id/baca/riset/2023/03/01/bersama-sama-menjaga-keamanan-pangan-jajanan-anak)
+2. [Siswa Keracunan di Bandung Barat](https://regional.kompas.com/read/2023/09/29/160152178/kronologi-puluhan-siswa-sd-keracunan-di-bandung-barat-1-tewas-diduga-akibat) 
